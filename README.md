@@ -18,10 +18,10 @@
 
 - **链接** <https://raw.githubusercontent.com/MoonBegonia/AdGuard-Custom-Rules/master/rules/cnbeta.txt>
 - **功能**
-- 重定向 **桌面版网站** 到 **移动版网站**
+  - 重定向 **桌面版网站** 到 **移动版网站**
 
 ## #2 百度网盘链接重定向
 
 - **链接** <https://raw.githubusercontent.com/MoonBegonia/AdGuard-Custom-Rules/master/rules/baiduwp.txt>
 - **功能**
-- 打开百度网盘链接自动重定向到 pandownload 网页版
+  - 打开百度网盘链接自动重定向到 pandownload 网页版
