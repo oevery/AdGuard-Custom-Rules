@@ -22,6 +22,6 @@
 
 ## #2 百度网盘链接重定向
 
-- **链接** <https://raw.githubusercontent.com/MoonBegonia/AdGuard-Custom-Rules/master/rules/cnbeta.txt>
+- **链接** <https://raw.githubusercontent.com/MoonBegonia/AdGuard-Custom-Rules/master/rules/baiduwp.txt>
 - **功能**
 - 打开百度网盘链接自动重定向到 pandownload 网页版
