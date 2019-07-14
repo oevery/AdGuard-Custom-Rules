@@ -1,7 +1,7 @@
 ! Title: 百度网盘链接重定向
 ! Description: 打开百度网盘链接自动重定向到 pandownload 网页版
-! Version: 1.1
+! Version: 1.2
 ! Expires: 15 days
 
-||pan.baidu.com/wap$replace=/.*/<html><script>window.location.replace("https:\/\/pan.baiduwp.com\/s\/" + window.location.search.slice(5));<\/script><\/html>/s
-||pan.baidu.com/share$replace=/.*/<html><script>window.location.replace("https:\/\/pan.baiduwp.com\/s\/" + window.location.search.slice(5));<\/script><\/html>/s
+||pan.baidu.com/wap$replace=/.*/<html><script>window.location.replace("https:\/\/pan.baiduwp.com\/s\/" + window.location.search.slice);<\/script><\/html>/s
+||pan.baidu.com/share$replace=/.*/<html><script>window.location.replace("https:\/\/pan.baiduwp.com\/s\/" + window.location.search.slice);<\/script><\/html>/s
